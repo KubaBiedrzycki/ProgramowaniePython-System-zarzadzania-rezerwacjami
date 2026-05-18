@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "gabinet": "Gabinet 3",
+        "pracownik": "Jan Kowalski",
+        "data": "2026-01-26",
+        "godzina_rozp": "08:30",
+        "godzina_zako": "12:30"
+    },
+    {
+        "id": 3,
+        "gabinet": "Gabinet 1",
+        "pracownik": "Marek Nowak",
+        "data": "2026-01-26",
+        "godzina_rozp": "08:00",
+        "godzina_zako": "13:00"
+    },
+    {
+        "id": 4,
+        "gabinet": "Gabinet 2",
+        "pracownik": "Iga Jankowska",
+        "data": "2026-01-26",
+        "godzina_rozp": "11:00",
+        "godzina_zako": "18:30"
+    },
+    {
+        "id": 5,
+        "gabinet": "Gabinet 3",
+        "pracownik": "Iwona Tylska",
+        "data": "2026-01-26",
+        "godzina_rozp": "13:00",
+        "godzina_zako": "15:00"
+    },
+    {
+        "id": 6,
+        "gabinet": "Gabinet 2",
+        "pracownik": "Iwona Tylska",
+        "data": "2026-01-26",
+        "godzina_rozp": "09:00",
+        "godzina_zako": "10:00"
+    },
+    {
+        "id": 7,
+        "gabinet": "Gabinet 3",
+        "pracownik": "Marek Nowak",
+        "data": "2026-01-26",
+        "godzina_rozp": "15:30",
+        "godzina_zako": "19:00"
+    },
+    {
+        "id": 8,
+        "gabinet": "Gabinet 1",
+        "pracownik": "Iwona Tylska",
+        "data": "2026-01-26",
+        "godzina_rozp": "15:15",
+        "godzina_zako": "19:45"
+    },
+    {
+        "id": 9,
+        "gabinet": "Gabinet 2",
+        "pracownik": "Robert Kowalski",
+        "data": "2026-01-27",
+        "godzina_rozp": "07:30",
+        "godzina_zako": "12:00"
+    },
+    {
+        "id": 10,
+        "gabinet": "Gabinet 1",
+        "pracownik": "Jan Kowalski",
+        "data": "2026-01-27",
+        "godzina_rozp": "07:30",
+        "godzina_zako": "15:00"
+    },
+    {
+        "id": 11,
+        "gabinet": "Gabinet 3",
+        "pracownik": "Iwona Tylska",
+        "data": "2026-01-27",
+        "godzina_rozp": "10:00",
+        "godzina_zako": "17:45"
+    },
+    {
+        "id": 12,
+        "gabinet": "Gabinet 3",
+        "pracownik": "Marek Nowak",
+        "data": "2026-01-27",
+        "godzina_rozp": "08:30",
+        "godzina_zako": "09:30"
+    },
+    {
+        "id": 13,
+        "gabinet": "Gabinet 2",
+        "pracownik": "Iga Jankowska",
+        "data": "2026-01-27",
+        "godzina_rozp": "14:00",
+        "godzina_zako": "19:00"
+    },
+    {
+        "id": 14,
+        "gabinet": "Gabinet 2",
+        "pracownik": "Marek Nowak",
+        "data": "2026-01-27",
+        "godzina_rozp": "12:15",
+        "godzina_zako": "13:45"
+    },
+    {
+        "id": 16,
+        "gabinet": "Gabinet 1",
+        "pracownik": "Marek Nowak",
+        "data": "2026-01-27",
+        "godzina_rozp": "16:00",
+        "godzina_zako": "19:00"
+    },
+    {
+        "id": 17,
+        "gabinet": "Gabinet 1",
+        "pracownik": "Marzena Nowak",
+        "data": "2026-01-28",
+        "godzina_rozp": "07:00",
+        "godzina_zako": "14:00"
+    },
+    {
+        "id": 18,
+        "gabinet": "Gabinet 2",
+        "pracownik": "Marzena Nowak",
+        "data": "2026-01-28",
+        "godzina_rozp": "16:00",
+        "godzina_zako": "20:00"
+    },
+    {
+        "id": 19,
+        "gabinet": "Gabinet 1",
+        "pracownik": "Jan Kowalski",
+        "data": "2026-01-28",
+        "godzina_rozp": "15:00",
+        "godzina_zako": "18:45"
+    },
+    {
+        "id": 20,
+        "gabinet": "Gabinet 3",
+        "pracownik": "Jan Kowalski",
+        "data": "2026-01-28",
+        "godzina_rozp": "08:00",
+        "godzina_zako": "14:00"
+    },
+    {
+        "id": 21,
+        "gabinet": "Gabinet 2",
+        "pracownik": "Marek Nowak",
+        "data": "2026-01-28",
+        "godzina_rozp": "08:00",
+        "godzina_zako": "11:00"
+    },
+    {
+        "id": 22,
+        "gabinet": "Gabinet 2",
+        "pracownik": "Iwona Tylska",
+        "data": "2026-01-28",
+        "godzina_rozp": "11:30",
+        "godzina_zako": "15:00"
+    },
+    {
+        "id": 23,
+        "gabinet": "Gabinet 3",
+        "pracownik": "Iga Jankowska",
+        "data": "2026-01-28",
+        "godzina_rozp": "14:30",
+        "godzina_zako": "20:00"
+    }
+]

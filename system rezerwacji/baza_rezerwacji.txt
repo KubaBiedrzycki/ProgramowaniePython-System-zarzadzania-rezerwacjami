@@ -1,0 +1,22 @@
+id;gabinet;pracownik;data;godzina_rozp;godzina_zako
+1;Gabinet 3;Jan Kowalski;2026-01-26;08:30;12:30
+3;Gabinet 1;Marek Nowak;2026-01-26;08:00;13:00
+4;Gabinet 2;Iga Jankowska;2026-01-26;11:00;18:30
+5;Gabinet 3;Iwona Tylska;2026-01-26;13:00;15:00
+6;Gabinet 2;Iwona Tylska;2026-01-26;09:00;10:00
+7;Gabinet 3;Marek Nowak;2026-01-26;15:30;19:00
+8;Gabinet 1;Iwona Tylska;2026-01-26;15:15;19:45
+9;Gabinet 2;Robert Kowalski;2026-01-27;07:30;12:00
+10;Gabinet 1;Jan Kowalski;2026-01-27;07:30;15:00
+11;Gabinet 3;Iwona Tylska;2026-01-27;10:00;17:45
+12;Gabinet 3;Marek Nowak;2026-01-27;08:30;09:30
+13;Gabinet 2;Iga Jankowska;2026-01-27;14:00;19:00
+14;Gabinet 2;Marek Nowak;2026-01-27;12:15;13:45
+16;Gabinet 1;Marek Nowak;2026-01-27;16:00;19:00
+17;Gabinet 1;Marzena Nowak;2026-01-28;07:00;14:00
+18;Gabinet 2;Marzena Nowak;2026-01-28;16:00;20:00
+19;Gabinet 1;Jan Kowalski;2026-01-28;15:00;18:45
+20;Gabinet 3;Jan Kowalski;2026-01-28;08:00;14:00
+21;Gabinet 2;Marek Nowak;2026-01-28;08:00;11:00
+22;Gabinet 2;Iwona Tylska;2026-01-28;11:30;15:00
+23;Gabinet 3;Iga Jankowska;2026-01-28;14:30;20:00
